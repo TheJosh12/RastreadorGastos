@@ -92,3 +92,10 @@ Este proyecto es una aplicación de consola en Java que permite llevar el contro
 ## 📝 Licencia
 
 Este proyecto es de uso libre con fines educativos.
+# Rastreador de Gastos 💰
+
+Este proyecto es una aplicación de consola escrita en Java para registrar, visualizar, actualizar y eliminar gastos. Permite llevar un control básico de gastos por mes y calcular el total acumulado.
+
+## 🚀 Project URL
+
+[https://github.com/TheJosh12/RastreadorGastos](https://github.com/TheJosh12/RastreadorGastos)
