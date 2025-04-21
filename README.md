@@ -96,6 +96,4 @@ Este proyecto es de uso libre con fines educativos.
 
 Este proyecto es una aplicación de consola escrita en Java para registrar, visualizar, actualizar y eliminar gastos. Permite llevar un control básico de gastos por mes y calcular el total acumulado.
 
-## 🚀 Project URL
-
-[https://github.com/TheJosh12/RastreadorGastos](https://github.com/TheJosh12/RastreadorGastos)
+https://roadmap.sh/projects/expense-tracker
